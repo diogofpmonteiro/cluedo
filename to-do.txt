@@ -1,0 +1,2 @@
+1 - HTML structure
+2 - Style the page
